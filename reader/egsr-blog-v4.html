@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width= 400px, initial-scale=1.0">
     <title>GitHub HTML Reader</title>
+    <link href="https://fonts.cdnfonts.com/css/segoe-ui-4" rel="stylesheet">
     <style>
         /* Basic styling for the body */
         body {
@@ -44,8 +45,9 @@
         /* Title styling */
         .title {
             font-size: 24px;
+            font-weight: bold !important;
             color: white;
-            margin-bottom: 10px;
+            margin-bottom: 0px;
             opacity: 0; /* Start as hidden */
             transform: translateX(-10px); /* Start from the left */
             animation: fadeInUp 0.5s forwards; /* Apply animation */
@@ -150,7 +152,7 @@
         const username = 'eingarden'; // GitHub username
         const repo = 'EGSR-Blog'; // Repository name
         const folderPath = 'html'; // Folder path in the repo
-        const accessToken = 'ghtokenf'; // Personal access token (use environment variables in production)
+        const accessToken = 'ghtoken'; // Personal access token (use environment variables in production)
 
         const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/${folderPath}`;
 
