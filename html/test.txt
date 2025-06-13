@@ -1,0 +1,11 @@
+    <header>New site, OCCX, MVMArchive</header>
+    <div class="date">061125</div>
+    <div class="content">
+        <p>After over a year of tossing this site around, I finally have it at a point that I can have it publicly available-</p>
+        <p>I have been working on a few personal endeavors that I am really excited to share/continue working on. Both of which are related to COD editing—OneClipContest X, and MVMArchive.</p>
+        <p>OneClipContest X is a personal revival of a contest called OneClipContest, which started in 2011, and stopped about 6 years ago. This contest was a huge part of why the community thrived for a good chunk of time, and I felt that the lack of contests in the current day is why the community has stagnated a bit (or at least slowed down, I still see really really new things happen sometimes)</p>
+        <p>As for rebooting a dead contest, no one would care to enter a new one. I've seen it plenty of times where a new contest shows up and immediately struggles due to people having no time or care. Seeing an old name gets people excited, even if it's not the same thing</p>
+        <p>My second endeavor, MVMArchive, is an extension of some of this same feeling. Extending further in the direction of "The community will not be revived now, and a lot of resources have been lost to old Skype DMs / Discord servers"</p>
+        <p>I see loads of people asking about things that seem like common knowledge to someone from 5+ years ago, and if I try to find that sort of thing, it turns up <i>nothing</i>. COD Editing trivia isn't something that will stay around in this format. It may have been different if things still ran on forums, but they don’t. MVMArchive is an all-in-one spot for me to work on archiving volatile downloads and documenting tutorials for more specific matters for COD Editing.</p>
+        <p>Sorry for the rant. Enter OneClipContest X. Even if you don't edit COD.</p>
+        <p>- <a href="https://www.youtube.com/@OneClipContestX" target="_blank">https://www.youtube.com/@OneClipContestX</a></p>
